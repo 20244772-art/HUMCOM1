@@ -1,5 +1,4 @@
 # HUMCOM1
-HELLO UNIVE3RSITY OF BAGUIO
+HELLO UNIVERSITY OF BAGUIO
 Briein Nicole Fontanilla
 BSIT
-Bengao, Baguio City
